@@ -135,7 +135,7 @@ You can also use the `id` selector to style elements. However, **there should
 be only one element with a given id** in an HTML document. This can make
 styling with the ID selector ideal for one-off styles. The `id` selector syntax
 is: `#idvalue`. Prefix the id attribute of an element with a `#` (which is
-called "octothorpe," "pound sign", or "hashtag").
+called "octothorpe", "pound sign", or "hashtag").
 
 ```css
 /*
